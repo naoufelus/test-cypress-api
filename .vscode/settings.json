@@ -1,0 +1,24 @@
+{
+    // "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    // "editor.cursorStyle": "block",
+    "workbench.editor.highlightModifiedTabs": true,
+    "files.trimFinalNewlines": true,
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "cypress.config.js",
+            ],
+            "url": "https://on.cypress.io/cypress.schema.json"
+        }
+    ],
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "es5",
+    "prettier.jsxBracketSameLine": true,
+    "prettier.printWidth": 68,
+    "prettier.useTabs": false,
+    "prettier.tabWidth": 2,
+    "tabnine.experimentalAutoImports": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "workbench.productIconTheme": "material-product-icons"
+}

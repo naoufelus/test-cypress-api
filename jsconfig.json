@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            // "@pages/*": [
+            //     "cypress/e2e/login/*"
+            // ],
+            "@feature/*": [
+                "./cypress/e2e/features/*"
+            ]
+        }
+    }
+}
